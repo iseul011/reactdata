@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 3,
+    "title" : "Rose Angora Hoodie Tee Peach Fuzz",
+    "content" : "Made in the States",
+    "price" : 71100
+  },
+  {
+    "id" : 4,
+    "title" : "Rose Angora Hoodie Tee Baby Blue",
+    "content" : "Made in Italy",
+    "price" : 71100
+  },
+  {
+    "id" : 5,
+    "title" : "Rose Angora Hoodie Tee Pale Melange",
+    "content" : "Made in the States",
+    "price" : 71100
+  }
+]
