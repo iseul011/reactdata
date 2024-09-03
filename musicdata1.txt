@@ -1,0 +1,20 @@
+[
+  {
+    "artist" : "SoulProdMusic",
+    "song" : "Nightfall / Future Bass Music",
+    "image" : "Nightfall.jpg",
+    "audio" : "nightfall.mp3"
+  },
+  {
+    "artist" : "Rockot",
+    "song" : "AMALGAM",
+    "image" : "AMALGAM.jpg",
+    "audio" : "amalgam.mp3"
+  },
+  {
+    "artist" : "Loksii",
+    "song" : "Flow",
+    "image" : "Flow.jpg",
+    "audio" : "flow.mp3"
+  }
+]
